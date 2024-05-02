@@ -3,7 +3,7 @@
         "Annotations": {
             "IsAbout": {
                 "TermURL": "nb:Age",
-                "Label": ""
+                "Label": "Participant age"
             },
             "Transformation": {
                 "TermURL": "nb:FromInt",
