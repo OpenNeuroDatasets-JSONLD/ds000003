@@ -15,7 +15,7 @@
                 " "
             ]
         },
-        "Description": "There should have been a description here, but there wasn't. :("
+        "Description": "Participant age"
     },
     "participant_id": {
         "Annotations": {
@@ -44,6 +44,6 @@
                 }
             }
         },
-        "Description": "There should have been a description here, but there wasn't. :("
+        "Description": "Participant sex"
     }
 }
