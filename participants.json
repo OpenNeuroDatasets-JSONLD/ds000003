@@ -3,7 +3,7 @@
         "Annotations": {
             "IsAbout": {
                 "TermURL": "nb:Age",
-                "Label": "Participant age"
+                "Label": ""
             },
             "Transformation": {
                 "TermURL": "nb:FromInt",
@@ -25,21 +25,21 @@
             },
             "Identifies": "participant"
         },
-        "Description": "Participant identifier"
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "sex": {
         "Annotations": {
             "IsAbout": {
                 "TermURL": "nb:Sex",
-                "Label": "Participant sex"
+                "Label": ""
             },
             "Levels": {
-                "M": {
-                    "TermURL": "snomed:248153007",
-                    "Label": ""
-                },
                 "F": {
                     "TermURL": "snomed:248152002",
+                    "Label": ""
+                },
+                "M": {
+                    "TermURL": "snomed:248153007",
                     "Label": ""
                 }
             }
